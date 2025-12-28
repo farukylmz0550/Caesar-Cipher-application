@@ -15,7 +15,7 @@ Features
 
 ---
 
-**Usage Scenarios**
+## Usage Scenarios
 
 -Quick text encryption/decryption for fun or learning
 
@@ -31,7 +31,7 @@ Features
 
 ---
 
-**Contact**
+## Contact
 
 -For questions, contributions, or feedback, feel free to reach out:
 
@@ -39,7 +39,12 @@ Features
 
 ---
 
-**License**
+## License
 
-<p align="center"> <a href="https://opensource.org/licenses/MIT"> <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" width="200"/> </a> </p>
-This project is licensed under the MIT License.
+<p align="center">
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+    <img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg" alt="License: CC BY-NC-SA 4.0" width="200"/>
+  </a>
+</p>
+
+This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
