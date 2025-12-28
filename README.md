@@ -3,7 +3,7 @@
 
 ---
 
-Features
+## Features
 
 -Turkish Alphabet Support: Handles all 29 Turkish letters (ç, ğ, ı, ö, ş, ü) in both lowercase and uppercase
 
